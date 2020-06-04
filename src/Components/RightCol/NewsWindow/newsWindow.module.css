@@ -42,7 +42,7 @@
 }
 .closeButton_block {
     -webkit-transition: top .3s;
-    background-image: url(./tab-second@2x.png);
+    background-image: url(/tab-second@2x.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100%;
