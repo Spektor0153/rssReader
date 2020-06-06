@@ -2,6 +2,11 @@
 
 Читалка новостных RSS лент. Парсинг XML файлов при запросе новостной ленты, список адресов каналов хранится в Mongo DB.
 
+<div>	
+Demo: <a href="http://smm-dance.ru:443">Link to demo</a>
+</div>
+
+
 Use: 
 <ul>
 	<li>Node js</li>
